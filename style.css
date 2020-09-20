@@ -1,0 +1,281 @@
+/* HEADER */
+
+html {
+    overflow-x: hidden;
+    background-color:#ffffff;
+}
+
+.figure-header {
+    position: relative;
+    margin: -10px;
+}
+
+.photo {
+    position: absolute;
+    width: 550px;
+    height: 550px;
+    left: 967px;
+    top: 91px;
+    border-radius: 300px;
+}
+
+h1 {
+    position: absolute;
+    width: 444px;
+    height: 117px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 100px;
+    line-height: 117px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+}
+.first-name {
+    left: 160px;
+    top: 233px;
+}
+
+.last-name {
+    left: 378px;
+    top: 375px;
+}
+
+/* CONTACT */
+
+p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.contact {
+    position: absolute;
+    width: 301px;
+    height: 120px;
+    left: 160px;
+    top: 568px;
+}
+
+.call-img {
+    position: absolute;
+    width: 23px;
+    height: 23px;
+    top: 60px;
+}
+
+.call-text {
+    position: absolute;
+    width: 170px;
+    height: 23px;
+    left: 43px;
+    top: 40px;
+}
+
+.email-img {
+    position: absolute;
+    width: 23px;
+    height: 23px;
+    top: 100px;
+}
+
+.email-text {
+    position: absolute;
+    width: 258px;
+    height: 23px;
+    left: 43px;
+    top: 80px;
+}
+
+/* ABOUT ME */
+
+h2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 47px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.about {
+    position: absolute;
+    width: 1171px;
+    height: 313px;
+    left: 160px;
+    top: 788px;
+}
+
+.rectangle {
+    position: absolute;
+    width: 529px;
+    height: 5px;
+    top: 87px;
+    background: #A0B3F6;
+}
+
+/* SKILLS */
+
+.skill {
+    position: absolute;
+    width: 1082px;
+    height: 436px;
+    left: 160px;
+    top: 1201px;
+}
+
+.html-name {
+    top: 77px;
+}
+
+.css {
+    top: 125px;
+}
+
+.javascript {
+    top: 173px;
+}
+
+.python {
+    top: 269px;
+}
+
+.c {
+    top: 317px;
+}
+
+.cc {
+    top: 365px;
+}
+
+.star {
+    position: absolute;
+    left: 123px;
+}
+
+.oracle {
+    position: absolute;
+    left: 546px;
+    top: 93px;
+}
+
+.star-oracle {
+    position: absolute;
+    left: 734px;
+    top: 113px;
+}
+
+.sqlite {
+    position: absolute;
+    left: 546px;
+    top: 141px;
+}
+
+.star-sqlite {
+    position: absolute;
+    left: 734px;
+    top: 161px;
+}
+
+.ms {
+    position: absolute;
+    left: 546px;
+    top: 189px;
+}
+
+.star-ms {
+    position: absolute;
+    left: 734px;
+    top: 209px;
+}
+
+.figma {
+    position: absolute;
+    left: 546px;
+    top: 237px;
+}
+
+.star-figma {
+    position: absolute;
+    left: 734px;
+    top: 257px;
+}
+
+.adobe {
+    position: absolute;
+    left: 546px;
+    top: 285px;
+}
+
+.star-adobe {
+    position: absolute;
+    left: 734px;
+    top: 305px;
+}
+
+/* EDUCATION */
+
+.education {
+    position: absolute;
+    width: 1090px;
+    height: 507px;
+    left: 160px;
+    top: 1737px;
+}
+
+h3 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    display: flex;
+    align-items: flex-end;
+}
+
+/* EXPERIENCE */
+
+.figure-body {
+    position: relative;
+    top: 1700px;
+}
+
+.figure {
+    position: absolute;
+    top: 2450px;
+    left: 160px;
+}
+
+.white {
+    color: #ffffff;
+}
+
+.rectangle-while {
+    position: absolute;
+    width: 529px;
+    height: 5px;
+    top: 87px;
+    background: #ffffff;
+}
+
+.languages {
+    position: absolute;
+    width: 1083px;
+    height: 100px;
+    left: 160px;
+    top: 3137px;
+}
+
+.lang-text {
+    margin-top: 80px;
+}
+
+.lang-level {
+    margin-bottom: 30px;;
+}
