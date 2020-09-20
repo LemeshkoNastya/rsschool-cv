@@ -31,3 +31,28 @@ After graduation I'm about to move to Saint Petersburg. Therefore, I intend to s
 * Adobe Photoshop
 
 During next six months I want to learn React, Redux and Vue, as well as to achieve a confident level of working with the git.
+
+## __Experience__
+1. __Web - application: example of a website for surfers__
+
+Used technologies: ASP.NET, Entity Framework Code First, Bootstrap, MVC pattern. The application was developed in C# programming language with database construction and implementation in MS SQL Server.
+
+GitHub: <https://github.com/LemeshkoNastya/Summer_practice_SMS-IT>
+
+2. __Web - application "Internet library: list of books by author"__
+
+The client part is developed using HTML and CSS, as well as the server part in Java with using of SQLite. Navigation part of the app is made of servlets.
+
+GitHub: <https://github.com/LemeshkoNastya/library-webapp>
+
+3. __Web - application "Food"__
+
+The project is under development. The page structure, creation of tabs, a timer, and a modal window have been implemented for now. Working with the server will be added to the project:
+
+  * sending data to the server
+  * user notification
+  * getting data from the server
+  * the creation of the slider
+  * the creation of the calculator 
+  
+GitHub: <https://github.com/LemeshkoNastya/Food>
