@@ -56,3 +56,12 @@ The project is under development. The page structure, creation of tabs, a timer,
   * the creation of the calculator 
   
 GitHub: <https://github.com/LemeshkoNastya/Food>
+
+## __Education__
+_2017-2019_ Samara national research University named after academician S.P. Korolev. 4th year student. Faculty of computer science. Applied mathematics and computer science (bachelor's degree)
+
+_2019_ Online courses "Marketing and SMM"
+
+_2019_ Online courses "Web design"
+
+_2020_ Online courses "Full course in JavaScript"
