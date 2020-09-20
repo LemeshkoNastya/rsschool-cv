@@ -65,3 +65,6 @@ _2019_ Online courses "Marketing and SMM"
 _2019_ Online courses "Web design"
 
 _2020_ Online courses "Full course in JavaScript"
+
+## __Languages__
+English - A1
